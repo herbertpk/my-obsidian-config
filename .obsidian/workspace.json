@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "0500a9d7496ba970",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd6c20eec7db9e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd4a6f8b250f02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UFPB/Poilitica e Gestão/Aula 09-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 09-06"
+            }
+          },
+          {
+            "id": "1c73caf71646ca58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://tasks.google.com/tasks/",
+                "title": "Tasks",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "cc01d1b8c25549a0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://support.google.com/accessibility/answer/6151800?hl=en&utm_source=google-account&utm_medium=search-screen",
+                "title": "Sorry, this page can't be found. - Google Accessibility Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sorry, this page can't be found. - Google Accessibility Help"
+            }
+          },
+          {
+            "id": "99c98c131b296e00",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/plugins?id=dataview",
+                "title": "Plugins - Obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Plugins - Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76813be9087435de",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd703f033558d9c1",
+        "type": "tabs",
+        "dimension": 76.14583333333333,
+        "children": [
+          {
+            "id": "3a194d887e1a9f36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3079e734ef081a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"UFPB/\" ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db70389ef89ec13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7736d990caf77f8e",
+        "type": "tabs",
+        "dimension": 23.85416666666667,
+        "children": [
+          {
+            "id": "68700d8fbda4d809",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "8f9d2f2141010bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3fe51adf1837026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eead49d0fe48e440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UFPB/Poilitica e Gestão/Texto 1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Texto 1"
+            }
+          },
+          {
+            "id": "df039aceafb39e0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UFPB/Poilitica e Gestão/Texto 1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Texto 1"
+            }
+          },
+          {
+            "id": "6f490cb93549f1f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f44cccf482123730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UFPB/Poilitica e Gestão/Aula 09-06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aula 09-06"
+            }
+          },
+          {
+            "id": "c33ddcccb8e7249f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "fdd4a6f8b250f02e",
+  "lastOpenFiles": [
+    "UFPB/Poilitica e Gestão/Aula 09-06.md",
+    "2025-06-20.md",
+    "UFPB/Poilitica e Gestão/2025-06-27.md",
+    "2025-07-05.md",
+    "Texto 1.md",
+    "My-projects/Awx Exporter.md",
+    "Obsidian Migration/config sync workflow.canvas",
+    "UFPB/Poilitica e Gestão/Texto 1.pdf",
+    "RESUMO TEXTO-Politica e Gestão.md",
+    "Excalidraw/Drawing 2025-06-20 15.18.39.excalidraw.md",
+    "Excalidraw",
+    "Obsidian Migration/Obsidiaasdf.md",
+    "Untitled.canvas",
+    "sdfasdf.md",
+    "Obsidian Migration/Obsidian migration plan  tag.md",
+    "testeerqweoihrfdiufhqiu4e3fhrqiuwdfhiquewhfiuqw3ehfiu.md",
+    "ASELRKJWAEF.md",
+    "Obsidian Migration",
+    "Untitled 1.canvas",
+    "My-projects"
+  ]
+}

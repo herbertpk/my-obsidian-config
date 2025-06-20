@@ -1,0 +1,9 @@
+{
+  "accentColor": "#c4c4c4",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "translucency": false,
+  "showViewHeader": false,
+  "showRibbon": true
+}
